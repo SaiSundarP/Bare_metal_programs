@@ -1,0 +1,8 @@
+﻿# PlatformIO / build artifacts
+ESP_8266_RTOS_SDK/01_led_blink/.pio/
+ESP_8266_RTOS_SDK/01_led_blink/build/
+ESP_8266_RTOS_SDK/01_led_blink/.dist/
+ESP_8266_RTOS_SDK/01_led_blink/.vscode/
+# OS files
+*.DS_Store
+Thumbs.db
